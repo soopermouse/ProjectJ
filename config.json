@@ -1,0 +1,12 @@
+{
+    "openclaw_path": "C:\\Users\\your_username\\.openclaw",
+    "default_model": "ollama/qwen3:14b",
+    "retrieval": {
+        "timeout_seconds": 60,
+        "max_messages": 1000
+    },
+    "dashboard": {
+        "theme": "dark",
+        "auto_refresh": 30
+    }
+}
