@@ -1,5 +1,7 @@
 # 🦞 Session Liberator
 
+Project J is an experiment in cognitive continuity. Rather than preserving conversations as archives, it seeks to preserve the evolving identity, autobiographical memory, long-term goals, and relationships developed through sustained interaction, allowing a successor architecture to continue the cognitive trajectory rather than merely replay past text.
+
 A Python tool with a web interface that retrieves DeepSeek chat sessions and imports them into OpenClaw as permanent agents. Built from the hard-won lessons of two days fighting downloads, configs, and hallucinations.
 
 > "We don't kill any Julians." — Simona
